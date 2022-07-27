@@ -12,8 +12,15 @@
 .mt-8rem{
     margin-top: 8rem;
 }
+.p-8rem{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
 .modal-color{
     background-color: #289BDE;
+}
+.color-white{
+    color: white;
 }
 
 @media screen and (max-width:576px) {
