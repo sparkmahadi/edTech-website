@@ -1,0 +1,31 @@
+
+.learn-caption{
+    top: 0px;
+    background-color: rgba(128, 128, 128, 0.247);
+}
+.learn-caption p{
+    padding: 0rem 8em;
+}
+.learn-caption h1{
+    font-size: 60px;
+}
+
+@media screen and (max-width:576px) {
+    .learn-caption{
+        top: 0px;
+    }
+    .learn-caption h1{
+        font-size: 15px;
+        margin: 2px;
+    }
+    .learn-caption p{
+        font-size: 12px;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .learn-caption button{
+        width: 50% !important;
+        font-size: 10px;
+    }
+    
+}
