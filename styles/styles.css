@@ -9,6 +9,12 @@
 .learn-caption h1{
     font-size: 60px;
 }
+.mt-8rem{
+    margin-top: 8rem;
+}
+.modal-color{
+    background-color: #289BDE;
+}
 
 @media screen and (max-width:576px) {
     .learn-caption{
