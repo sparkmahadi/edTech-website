@@ -11,10 +11,6 @@
     background-color: #289BDE;
 }
 
-.color-white {
-    color: white;
-}
-
 .carousel-item>img {
     height: 584px;
     object-fit: cover;
