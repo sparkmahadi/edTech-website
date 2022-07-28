@@ -18,63 +18,6 @@
     object-position: center;
   }
 
-/* @media screen and (max-width:576px) {
-    .course-col{
-        width: 100% !important;
-        margin: 0 auto;
-    }
-
-    
-} */
-
-
-
-
-
-
-
-
-
-
-/* ---------------
-    Google Font 
-----------------*/
-
-@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Vollkorn&display=swap");
-
-/* ---------------
-    Custom Color 
-----------------*/
-
-.bg-imarah-card {
-  background-color: #f8efba;
+.explore-bg{
+    background-color: #F4FAFD;
 }
-
-/* ---------------
-    Custom Font 
-----------------*/
-
-.imarah-font-1 {
-  font-family: "Merriweather", serif;
-}
-
-.imarah-font-2 {
-  font-family: "Vollkorn", serif;
-}
-
-/* ---------------
-    Custom Styles 
-----------------*/
-/* 
-a {
-  text-decoration: none;
-} */
-
-/* 
-.carousel-caption > h1 {
-  text-shadow: 2px 2px 4px #000000;
-} */
-/* 
-.card-custom-border {
-  border-radius: 26px;
-} */
