@@ -7,10 +7,6 @@
     padding-bottom: 8rem;
 }
 
-.modal-color {
-    background-color: #289BDE;
-}
-
 .carousel-item>img {
     height: 584px;
     object-fit: cover;
