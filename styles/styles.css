@@ -1,23 +1,32 @@
-.mt-8rem{
+.mt-8rem {
     margin-top: 8rem;
 }
-.p-8rem{
+
+.p-8rem {
     padding-top: 8rem;
     padding-bottom: 8rem;
 }
-.modal-color{
+
+.modal-color {
     background-color: #289BDE;
 }
-.color-white{
+
+.color-white {
     color: white;
 }
 
-.carousel-item > img {
+.carousel-item>img {
     height: 584px;
     object-fit: cover;
     object-position: center;
-  }
+}
 
-.explore-bg{
+.working {
+    width: min-content;
+    object-fit: cover;
+    object-position: center;
+}
+
+.explore-bg {
     background-color: #F4FAFD;
 }
