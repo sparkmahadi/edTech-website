@@ -21,12 +21,6 @@
     object-position: center;
 }
 
-.working {
-    width: min-content;
-    object-fit: cover;
-    object-position: center;
-}
-
 .explore-bg {
     background-color: #F4FAFD;
 }
