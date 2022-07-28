@@ -19,22 +19,6 @@
   }
 
 /* @media screen and (max-width:576px) {
-    .learn-caption{
-        top: 0px;
-    }
-    .learn-caption h1{
-        font-size: 15px;
-        margin: 2px;
-    }
-    .learn-caption p{
-        font-size: 12px;
-        margin: 0;
-        padding: 0 !important;
-    }
-    .learn-caption button{
-        width: 50% !important;
-        font-size: 10px;
-    }
     .course-col{
         width: 100% !important;
         margin: 0 auto;
